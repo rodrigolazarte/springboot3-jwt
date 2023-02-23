@@ -1,7 +1,7 @@
 ## JWT With Springboot 3.0.2
 ### Project goal
 This is a demo project that implements a simple
-secured endpoint using JWT and two endpoint to
+secured endpoint using JWT and two endpoints to
 register a new user and for authenticate an existing user.
 The goal for this project is learning how to implement
 Spring Security in an API using JWT.
